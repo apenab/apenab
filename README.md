@@ -1,12 +1,13 @@
 <h1 align="left">Hi 👋, I'm Antonio</h1>
 <h3 align="left">A passionate full stack developer from Cuba</h3>
+<br/>
+
 <a href="https://twitter.com/apenab1995"> 
-  <img align="center" alt="Antonio Peña Twitter" width="22px" src="https://icongr.am/fontawesome/twitter.svg?size=128&color=70c8ff" /> 
+<img align="left" alt="Antonio Peña Twitter" width="22px" src="https://icongr.am/fontawesome/twitter.svg?size=128&color=70c8ff" /> 
 </a>
 <a href="https://www.linkedin.com/in/antonio-pe%C3%B1a-batista-880b89196">
-  <img align="center" alt="Antonio Peña LinkedIN" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff" />
+<img align="left" alt="Antonio Peña LinkedIN" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff" />
 </a>
-
 
 ## What i'm up to
 
