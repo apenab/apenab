@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm Antonio</h1>
 <h3 align="center">A passionate full stack developer from Cuba</h3>
+<h3 align="center"><a href="https://twitter.com/apenab1995" align="center">
+<img align="center" alt="Antonio Peña Twitter" width="22px" src="https://icongr.am/fontawesome/twitter.svg?size=128&color=70c8ff" /> <a href="https://www.linkedin.com/in/antonio-pe%C3%B1a-batista-880b89196"  align="center">
+<img align="center" alt="Antonio Peña LinkedIN" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff" />
+</a></h3>
+
+
+## What i'm up to
 
 - 🔭 I’m currently working on **University of Holguín**
 
@@ -7,12 +14,9 @@
 
 - 📫 How to reach me **apenab1995@gmail.com**
 
-<a href="https://twitter.com/apenab1995" align="center">
-<img align="center" alt="Antonio Peña Twitter" width="22px" src="https://icongr.am/fontawesome/twitter.svg?size=128&color=70c8ff" />
-</a>
-<a href="https://www.linkedin.com/in/antonio-pe%C3%B1a-batista-880b89196"  align="center">
-<img align="center" alt="Antonio Peña LinkedIN" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff" />
-</a>
+
+
+
 <br />
 
 ## Languages and Tools
