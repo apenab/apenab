@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Antonio</h1>
-<h3 align="left">A passionate full stack developer from Cuba</h3>
+<h3 align="left">A passionate full stack developer from Spain</h3>
 
 
 ## What i'm up to
