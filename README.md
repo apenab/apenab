@@ -4,8 +4,6 @@
 
 ## What i'm up to
 
-- 🔭 I’m currently working on **University of Holguín**
-
 - 💬 Ask me about **javascript, python, react and django**
 
 - 📫 How to reach me **apenab1995@gmail.com**
