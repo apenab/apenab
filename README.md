@@ -1,6 +1,11 @@
 <h1 align="left">Hi 👋, I'm Antonio</h1>
 <h3 align="left">A passionate full stack developer from Spain</h3>
 
+I'm a Computer Engineering graduate with over 5 years of experience in software development. I specialize in technologies such as React, Django, and Python, and I've played a pivotal role in crafting innovative solutions for various industries. My passion for coding is complemented by a strong background in designing and implementing design systems, allowing me to create intuitive and visually appealing products.
+
+My approach goes beyond mere coding; I strive to understand user needs and translate them into elegant and functional software solutions. I firmly believe in continuous improvement and staying updated with the latest technological trends.
+
+I'm open to new professional opportunities where I can apply my software development expertise and my dedication to creating high-quality products. I'm always eager to collaborate on challenging projects and contribute to the success of highly motivated development teams.
 
 ## What i'm up to
 
