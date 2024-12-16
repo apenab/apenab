@@ -5,7 +5,6 @@ I'm a Computer Engineering graduate with over 9 years of experience in software 
 
 My approach goes beyond mere coding; I strive to understand user needs and translate them into elegant and functional software solutions. I firmly believe in continuous improvement and staying updated with the latest technological trends.
 
-I'm open to new professional opportunities where I can apply my software development expertise and my dedication to creating high-quality products. I'm always eager to collaborate on challenging projects and contribute to the success of highly motivated development teams.
 
 ## What i'm up to
 
