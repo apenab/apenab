@@ -1,9 +1,13 @@
 <h1 align="left">Hi 👋, I'm Antonio</h1>
 <h3 align="left">A passionate full stack developer from Spain</h3>
 
-I'm a Computer Engineering graduate with over 9 years of experience in software development. I specialize in technologies such as React, Django, and Python, and I've played a pivotal role in crafting innovative solutions for various industries. My passion for coding is complemented by a strong background in designing and implementing design systems, allowing me to create intuitive and visually appealing products.
+I’m a software engineer (Computer Engineering) specializing in TypeScript, React, Django, and Python.
 
-My approach goes beyond mere coding; I strive to understand user needs and translate them into elegant and functional software solutions. I firmly believe in continuous improvement and staying updated with the latest technological trends.
+A core part of my work is designing and scaling design systems: component libraries, design tokens, accessibility foundations, and developer tooling that help teams ship consistent UI faster—without compromising quality.
+
+I enjoy working close to product and design to understand real user needs and translate them into clean, maintainable solutions. I care deeply about DX, performance, accessibility, and long-term maintainability.
+
+I’m also an active open-source contributor/maintainer and I share what I learn through talks and technical content. Lately I’ve been exploring practical AI engineering workflows—experimenting with Recursive Language Models (RLMs) and agentic patterns to improve developer productivity and reduce prompt-heavy pipelines.
 
 
 ## What i'm up to
