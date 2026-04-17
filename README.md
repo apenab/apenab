@@ -19,11 +19,10 @@ Lately I've been exploring practical AI engineering workflows — experimenting 
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=apenab&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apenab&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=apenab&theme=tokyonight" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=apenab&theme=tokyonight" height="150" />
+  <img src="https://streak-stats.demolab.com?user=apenab&theme=tokyonight&hide_border=true" height="150" />
 </p>
-
-<img src="https://streak-stats.demolab.com?user=apenab&theme=tokyonight&hide_border=true" height="165" />
 
 ---
 
