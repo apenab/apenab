@@ -1,41 +1,35 @@
-<h1 align="left">Hi 👋, I'm Antonio</h1>
-<h3 align="left">A passionate full stack developer from Spain</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=60A5FA&width=600&lines=Hi+%F0%9F%91%8B+I'm+Antonio+Pe%C3%B1a;Full+Stack+Developer+from+Spain+%F0%9F%87%AA%F0%9F%87%B8;Design+Systems+%7C+DX+%7C+Open+Source;Exploring+AI+%26+RLMs+%F0%9F%A7%A0)](https://github.com/apenab)
 
-I’m a software engineer (Computer Engineering) specializing in TypeScript, React, Django, and Python.
+<br/>
 
-A core part of my work is designing and scaling design systems: component libraries, design tokens, accessibility foundations, and developer tooling that help teams ship consistent UI faster—without compromising quality.
+I'm a software engineer specializing in **TypeScript, React, Django & Python**. A core part of my work is designing and scaling **design systems** — component libraries, design tokens, accessibility foundations, and developer tooling that help teams ship consistent UI faster without compromising quality.
 
-I enjoy working close to product and design to understand real user needs and translate them into clean, maintainable solutions. I care deeply about DX, performance, accessibility, and long-term maintainability.
+I enjoy working close to product and design to understand real user needs and translate them into clean, maintainable solutions. I care deeply about **DX, performance, accessibility, and long-term maintainability**.
 
-I’m also an active open-source contributor/maintainer and I share what I learn through talks and technical content. Lately I’ve been exploring practical AI engineering workflows—experimenting with Recursive Language Models (RLMs) and agentic patterns to improve developer productivity and reduce prompt-heavy pipelines.
+Lately I've been exploring practical AI engineering workflows — experimenting with **Recursive Language Models (RLMs)** and agentic patterns to improve developer productivity.
 
+---
 
-## What i'm up to
+### 🛠️ Tech Stack
 
-- 💬 Ask me about **javascript, python, react and django**
+[![My Skills](https://skillicons.dev/icons?i=ts,js,react,nextjs,python,django,graphql,postgres,docker,git&theme=dark)](https://skillicons.dev)
 
-- 📫 How to reach me **apenab1995@gmail.com**
+---
 
+### 📊 GitHub Stats
 
-<a href="https://twitter.com/apenab1995"> 
-<img align="left" alt="Antonio Peña Twitter" width="22px" src="https://icongr.am/fontawesome/twitter.svg?size=128&color=70c8ff" /> 
-</a>
-<a href="https://www.linkedin.com/in/antonio-pe%C3%B1a-batista-880b89196">
-<img align="left" alt="Antonio Peña LinkedIN" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff" />
-</a>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=apenab&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apenab&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
+</p>
 
+<img src="https://streak-stats.demolab.com?user=apenab&theme=tokyonight&hide_border=true" height="165" />
 
-<br />
+---
 
-## Languages and Tools
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png"></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="45" height="45"/></code> 
+### 📬 Connect with me
 
-____
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=apenab&show_icons=true&locale=en" alt="apenab" /></p>
-
-
+[![Twitter](https://img.shields.io/badge/@apenab1995-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/apenab1995)
+[![LinkedIn](https://img.shields.io/badge/Antonio_Peña-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-pe%C3%B1a-batista-880b89196)
+[![Email](https://img.shields.io/badge/apenab1995@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:apenab1995@gmail.com)
+[![GitHub](https://img.shields.io/badge/apenab-181717?style=flat&logo=github&logoColor=white)](https://github.com/apenab)
